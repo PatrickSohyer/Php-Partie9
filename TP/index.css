@@ -1,0 +1,24 @@
+.date {
+    color: cyan;
+    font-size: 30px;
+}
+
+.colorBackgroundBody {
+    background-color: grey;
+}
+
+.exerciceConsign {
+    border: 2px black solid;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+#days {
+    background-color: greenyellow;
+}
+
+td:empty {
+    background-color: red;
+}

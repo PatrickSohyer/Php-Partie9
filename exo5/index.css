@@ -1,0 +1,17 @@
+.colorBackgroundBody {
+    background-color: grey;
+}
+
+.exerciceConsign {
+    border: 2px black solid;
+}
+
+.dayMethod1 {
+    color: greenyellow;
+    font-size: 20px;
+}
+
+.dayMethod2 {
+    font-size: 20px;
+    color: cyan
+}
