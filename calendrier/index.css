@@ -1,10 +1,5 @@
-.date {
-    color: cyan;
-    font-size: 30px;
-}
-
 .colorBackgroundBody {
-    background-color: grey;
+    background-color: #e5dcdc;
 }
 
 .exerciceConsign {
@@ -13,11 +8,13 @@
 
 table, th, td {
   border: 1px solid black;
+  background-color: white;
 }
 
 #days {
     background-color: greenyellow;
     text-align: center;
+    font-style: italic;
 }
 
 td, th {
@@ -26,12 +23,6 @@ td, th {
 }
 
 td:empty {
-    background-color: red;
+    background-color: grey;
     border: 1px solid black;
-}
-
-.daysTest {
-    margin: 0;
-    padding: 2px;
-    font-size: 15px;
 }
